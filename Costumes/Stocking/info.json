@@ -5,7 +5,6 @@
   "file": "stocking",
   "type": "costume",
   "keepBase": false,
-  "skinScale": 107,
   "boneOffsets": [
     { "bone": "Ankle_L_jnt", "x": -4.65661E-11, "y": 0.00376294, "z": -2.14648E-11 },
     { "bone": "Ankle_R_jnt", "x": -0.000603599, "y": -0.0036037, "z": 4.35853E-05 },
@@ -49,6 +48,10 @@
     { "bone": "Toe_R_jnt", "x": 2.0071E-05, "y": -0.00182446, "z": -0.000110306 },
     { "bone": "Toe_R_jnt_end", "x": 0, "y": 0.00162185, "z": 0 },
     { "bone": "Wrist_L_jnt", "x": -4.19095E-11, "y": 0.00145228, "z": -4.19095E-11 },
-    { "bone": "Wrist_R_jnt1", "x": 5.67817E-06, "y": -0.00151115, "z": -4.60486E-05 }
+    { "bone": "Wrist_R_jnt1", "x": 5.67817E-06, "y": -0.00151115, "z": -4.60486E-05 },
+    { "bone": "Main FG", "x": 0, "y": 0, "z": 0 },
+    { "bone": "Torso_C_jnt", "x": -7.27177E-06, "y": 6.12914E-06, "z": 3.22454E-06 },
+    { "bone": "Torso_C_jnt_end", "x": 0, "y": 0.00132027, "z": 0 },
+    { "bone": "Torso_C_jnt_NoStrechSquash", "x": 6.53029E-06, "y": 0.00166778, "z": -6.60229E-06 }
   ]
 }
