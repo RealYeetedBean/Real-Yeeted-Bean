@@ -5,6 +5,7 @@
   "file": "stocking",
   "type": "costume",
   "keepBase": false,
+  "skinScale": 107,
   "boneOffsets": [
     { "bone": "Ankle_L_jnt", "x": -3.72529E-11, "y": 0.00376294, "z": 2.58513E-11 },
     { "bone": "Ankle_R_jnt", "x": -0.000603599, "y": -0.0036037, "z": 4.35854E-05 },
