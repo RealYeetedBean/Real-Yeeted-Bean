@@ -7,8 +7,6 @@
   "keepBase": false,
   "skinScale": 10,
   "boneOffsets": [
-    { "bone": "Body_LOD0 (merge)", "x": 0, "y": 0, "z": 0 },
-    { "bone": "Torso_C_jnt_NoStrechSquash", "x": -2.66847E-06, "y": 0.0094239, "z": 0.000129168 },
     { "bone": "Chest_C_jnt", "x": 6.43969E-06, "y": 0.00186853, "z": 7.60186E-06 },
     { "bone": "Head_C_jnt01", "x": 3.51878E-06, "y": 0.00198506, "z": -0.00035903 },
     { "bone": "Eye_L_jnt", "x": -0.000914989, "y": 0.00195105, "z": 0.00103825 },
