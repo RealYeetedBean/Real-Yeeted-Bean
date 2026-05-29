@@ -5,7 +5,6 @@
   "file": "stocking",
   "type": "costume",
   "keepBase": false,
-  "skinScale": 1,
   "boneOffsets": [
     { "bone": "Body_LOD0 (merge)", "x": 0, "y": 0, "z": 0 },
     { "bone": "Torso_C_jnt_NoStrechSquash", "x": -0.000266844, "y": 0.94239, "z": 0.0129168 },
