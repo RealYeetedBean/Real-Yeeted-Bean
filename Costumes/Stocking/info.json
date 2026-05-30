@@ -5,9 +5,10 @@
   "file": "stocking",
   "type": "costume",
   "keepBase": false,
+  "skinScale": 1.2,
   "boneOffsets": [
-    { "bone": "Body_LOD0 (merge)", "x": 0, "y": 0, "z": 0.0008 },
-    { "bone": "Torso_C_jnt_NoStrechSquash", "x": -2.6685E-06, "y": 0.00862389, "z": 0.000129168 },
+    { "bone": "Body_LOD0 (merge)", "x": 0, "y": 0, "z": 0.0019 },
+    { "bone": "Torso_C_jnt_NoStrechSquash", "x": -2.6685E-06, "y": 0.00752389, "z": 0.000129168 },
     { "bone": "Chest_C_jnt", "x": 6.43969E-06, "y": 0.0018685, "z": 7.602E-06 },
     { "bone": "Head_C_jnt01", "x": 3.5188E-06, "y": 0.0019851, "z": -0.00035903 },
     { "bone": "Eye_L_jnt", "x": -0.000914988, "y": 0.00195104, "z": 0.00103825 },
