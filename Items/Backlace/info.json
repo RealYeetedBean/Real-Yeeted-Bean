@@ -6,6 +6,6 @@
   "type": "item",
   "group": "Panty & Stocking",
   "scale": 100,
-  "left":  { "bone": "Backlace (1)", "position": [0.0269627, 0.00639584, -0.17897], "rotation": [294.527, 25.4062, 242.432] },
-  "right": { "bone": "Backlace", "position": [-0.031272, -0.0284114, 0.171623], "rotation": [68.0659, 209.087, 300.951] }
+  "left":  { "bone": "Backlace (1)", "position": [0.018, 0.015, -0.176], "rotation": [289.197, 354.864, 162.965] },
+  "right": { "bone": "Backlace", "position": [-0.018, 0.015, 0.176], "rotation": [73.7401, 191.022, 6.90669] }
 }
