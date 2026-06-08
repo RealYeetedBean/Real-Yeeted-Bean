@@ -4,7 +4,8 @@
   "description": "Model by ultim8nik",
   "file": "stripes i & ii",
   "type": "item",
+  "group": "Panty & Stocking",
   "scale": 100,
-  "left":  { "bone": "Stripes I & II", "position": [0.14129, 0.0803004, -0.140339], "rotation": [354.265, 269.045, 260.039] },
-  "right": { "bone": "Stripes I & II", "position": [-0.160583, -0.111187, 0.123952], "rotation": [7.42803, 87.7739, 101.256] }
+  "left":  { "bone": "Stripes II", "position": [0.14129, 0.0803004, -0.140339], "rotation": [354.265, 269.045, 260.039] },
+  "right": { "bone": "Stripes I", "position": [-0.160583, -0.111187, 0.123952], "rotation": [7.42803, 87.7739, 101.256] }
 }
