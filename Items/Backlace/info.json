@@ -1,0 +1,11 @@
+﻿{
+  "name": "Backlace",
+  "author": "Real Yeeted Bean",
+  "description": "Model by ultim8nik",
+  "file": "backlace",
+  "type": "item",
+  "group": "Panty & Stocking",
+  "scale": 100,
+  "left":  { "bone": "Backlace (1)", "position": [0.0269627, 0.00639584, -0.17897], "rotation": [294.527, 25.4062, 242.432] },
+  "right": { "bone": "Backlace", "position": [-0.031272, -0.0284114, 0.171623], "rotation": [68.0659, 209.087, 300.951] }
+}
