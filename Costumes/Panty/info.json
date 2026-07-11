@@ -6,7 +6,7 @@
   "type": "costume",
   "group": "Panty & Stocking",
   "keepBase": false,
-  "skinScale": 1.5,
+  "skinScale": 100,
   "boneOffsets": [
     { "bone": "Body_LOD0 (merge)", "x": 0, "y": 0, "z": 0.001 },
     { "bone": "Torso_C_jnt_NoStrechSquash", "x": -2.22575E-06, "y": 0.0068604, "z": 0.000107738 },
