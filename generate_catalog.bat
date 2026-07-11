@@ -9,7 +9,7 @@ echo Scanning for skin
 set COUNT=0
 set RESULT=[
 
-for /d %%C in (Costumes Accessories Items Plinths) do (
+for /d %%C in (Costumes Accessories Items Plinths Emotes) do (
     if exist "%%C" (
         for /d %%S in ("%%C\*") do (
             if exist "%%C\%%~nxS\info.json" (
